@@ -1,0 +1,14 @@
+The time when unit became active or started is printed after the "@" character.
+The time the unit took to start is printed after the "+" character.
+
+graphical.target @2.026s
+└─multi-user.target @2.025s
+  └─snapd.seeded.service @854ms +635ms
+    └─basic.target @801ms
+      └─sockets.target @800ms
+        └─snapd.socket @771ms +28ms
+          └─sysinit.target @758ms
+            └─systemd-udev-trigger.service @432ms +325ms
+              └─systemd-udevd-varlink.socket @389ms +32us
+                └─-.mount @330ms
+                  └─-.slice @331ms

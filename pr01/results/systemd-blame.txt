@@ -1,0 +1,10 @@
+20min 1.112s wsl-pro.service
+      1.385s motd-news.service
+      1.199s landscape-client.service
+       728ms dev-sdd.device
+       635ms snapd.seeded.service
+       567ms dpkg-db-backup.service
+       549ms user@0.service
+       435ms snapd.service
+       413ms networkd-dispatcher.service
+       349ms netplan-configure.service

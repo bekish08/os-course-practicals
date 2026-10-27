@@ -1,0 +1,2 @@
+Startup finished in 2.027s (userspace) 
+graphical.target reached after 2.026s in userspace.
